@@ -1,5 +1,6 @@
 # Multi_set_project
-> A project about the different used of set
+> A project about the basis in the algebra for the use of set like the addition, scalar product ....
+
 
 
 
